@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aromajoin.library:actionsheet-0.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/actionsheet-0.0.1.aar/a9168ffba142760174bbfcc37c4f4c7d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/actionsheet-0.0.1.aar/a9168ffba142760174bbfcc37c4f4c7d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aromajoin.library/actionsheet/0.0.1/7305af85410da87008b495213d77e774f2976882/actionsheet-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
